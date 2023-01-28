@@ -1,6 +1,8 @@
 # matrix-calculator
 This calculator does basic operations for matrices without the aid of algebra libraries. Currently it can do matrix determinant, transpose and inverse.
 
+> Status: Under construction :wrench:
+
 ## Operation
 
 Step 1: Choose the number of lines and columns.
