@@ -4,10 +4,10 @@ This calculator does basic operations for matrices without the aid of algebra li
 ## Working example
 
 ```
---> Operacoes com matrizes <--
+--> Operations with matrices <--
 
-Numero de linhas: 2
-Numero de colunas: 2
+Number of lines: 2
+Number of columns: 2
 
 C11: 1
 C12: 2
@@ -17,9 +17,9 @@ C22: 4
 | 1 2 |
 | 3 4 |
 
-Calculo:
-1.Determinante
-2.Transposta
-3.Inversa
-0.Sair
+Calculation:
+1.Determinant
+2.Transposed
+3.Inverse
+0.Exit
 ```
