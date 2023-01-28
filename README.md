@@ -3,6 +3,7 @@ This calculator does basic operations for matrices without the aid of algebra li
 
 ## Working example
 
+Step 1: Choose the number of lines and columns.
 ```
 --> Operations with matrices <--
 
@@ -10,6 +11,7 @@ Number of lines: 2
 Number of columns: 2
 ```
 
+Step 2: Fill the positions of matrix.
 ```
 C11: 1
 C12: 2
@@ -20,6 +22,7 @@ C22: 4
 | 3 4 |
 ```
 
+Step 3: Choose a operation.
 ```
 Calculation:
 1.Determinant
