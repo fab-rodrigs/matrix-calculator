@@ -6,7 +6,7 @@ This calculator does basic operations for matrices without the aid of algebra li
 ## Operation
 
 Step 1: Choose the number of lines and columns.
-```
+```sh
 --> Operations with matrices <--
 
 Number of lines: 2
@@ -14,7 +14,7 @@ Number of columns: 2
 ```
 
 Step 2: Fill the positions of matrix.
-```
+```sh
 C11: 1
 C12: 2
 C21: 3
@@ -25,7 +25,7 @@ C22: 4
 ```
 
 Step 3: Choose a operation.
-```
+```sh
 Calculation:
 1.Determinant
 2.Transposed
